@@ -36,10 +36,10 @@ The goal of this project is to provide a lightweight financial tracking solution
 ### Alex Carter
 
 Email:
-alex.carter.dev@example.com
+gene22dony@outlook.com
 
 Website:
-Metro PCS
+[Metro PCS](https://www.metropcsbytmobile.com.co)
 
 Alex Carter is a passionate full-stack developer with over 8 years of experience building scalable web applications. He specializes in React development, frontend architecture, JavaScript solutions, and user-focused application design.
 
